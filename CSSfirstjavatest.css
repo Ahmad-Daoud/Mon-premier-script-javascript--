@@ -1,0 +1,24 @@
+body{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    }
+    #buttonPassagers{
+        background-color: darkred;
+        color: white;
+        font-family: cursive;
+        border: solid 5px;
+        border-color: brown;
+        font-size: 25px;
+    }
+    #buttonPassagers:hover{
+        font-size: 30px ;
+        transition-delay: 0.1ms;
+        transition-duration: 250ms;
+    }
+    #buttonPassagers:active {
+        color: gray;
+      }
+    
