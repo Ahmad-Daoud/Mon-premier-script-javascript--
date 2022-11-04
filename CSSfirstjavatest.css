@@ -1,5 +1,6 @@
 body{
-    background-color: darkblue;
+    background-image: url(https://s2.qwant.com/thumbr/0x380/7/4/082fd1e9c9d6b3e6574cd9f1503e0f41773f3b8a8c661b4972ae64ff5ccfea/2020020607553411227.jpg?u=http%3A%2F%2Fphotos.greatrails.net%2Fphotos-original%2F2020%2F02%2F06%2F2020020607553411227.jpg&q=0&b=1&p=0&a=0);
+    background-size: cover;
     color: white;
     text-align: center;
     font-size: 40px;
